@@ -126,9 +126,9 @@ Nᴀᴍᴇ - {}"""
 
 ᴄʜᴇᴄᴋ ʏᴏᴜʀ sᴘᴇʟʟɪɴɢ ɪɴ ɢᴏᴏɢʟᴇ ᴀɴᴅ ᴛʀʏ ᴀɢᴀɪɴ 😃
 
-⋯⋯⋯ ᴍᴏᴠɪᴇ ʀᴇǫᴜᴇꜱᴛ ꜰᴏʀᴍᴀᴛ ⋯⋯⋯
-MOVIE : Uncharted or Uncharted 2022 ᴇxᴀᴍᴘʟᴇ 
-SERIES : loki or Loki S01 
+⋯ ᴍᴏᴠɪᴇ ʀᴇǫᴜᴇꜱᴛ ꜰᴏʀᴍᴀᴛ ⋯
+MOVIE : Uncharted or Uncharted 2022 
+SERIES : Loki or Loki S01 
 
 🚯 ᴅᴏɴᴛ ᴜꜱᴇ ➠ ':(!,./)</b>"""
 
