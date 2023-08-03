@@ -240,11 +240,11 @@ async def next_page(bot, query):
                 ],
             )
     btn.insert(0, [
-        InlineKeyboardButton("! Sᴇɴᴅ Aʟʟ Tᴏ PM !", callback_data=f"send_fall#files#{offset}#{req}"),
+        InlineKeyboardButton(" Owner ", url=f"https://t.me/mr_kallua"), 
         InlineKeyboardButton("! Lᴀɴɢᴜᴀɢᴇs !", callback_data=f"select_lang#{req}")
     ])
     btn.insert(0, [
-        InlineKeyboardButton("⚡ Cʜᴇᴄᴋ Bᴏᴛ PM ⚡", url=f"https://t.me/{temp.U_NAME}")
+        InlineKeyboardButton("⚡ How To Download ⚡", url=f"https://t.me/primax_movie/53")
     ])
     try:
         await query.edit_message_reply_markup(
@@ -352,12 +352,12 @@ async def language_check(bot, query):
             )
         
         btn.insert(0, [
-            InlineKeyboardButton("! Sᴇɴᴅ Aʟʟ Tᴏ PM !", callback_data=f"send_fall#{pre}#{0}#{userid}"),
+            InlineKeyboardButton(" Owner ", url=f"https://t.me/mr_kallua"),
             InlineKeyboardButton("! Lᴀɴɢᴜᴀɢᴇs !", callback_data=f"select_lang#{userid}")
         ])
 
         btn.insert(0, [
-            InlineKeyboardButton("⚡ Cʜᴇᴄᴋ Bᴏᴛ PM ⚡", url=f"https://t.me/{temp.U_NAME}")
+            InlineKeyboardButton("⚡ How To Download ⚡", url=f"https://t.me/primax_movie/53")
         ])
 
         if offset != "":
@@ -1621,12 +1621,12 @@ async def auto_filter(client, msg, spoll=False):
         )
 
     btn.insert(0, [
-        InlineKeyboardButton("! Sᴇɴᴅ Aʟʟ Tᴏ PM !", callback_data=f"send_fall#{pre}#{0}#{message.from_user.id}"),
+        InlineKeyboardButton(" Owner ", url=f"https://t.me/mr_kallua"),
         InlineKeyboardButton("! Lᴀɴɢᴜᴀɢᴇs !", callback_data=f"select_lang#{message.from_user.id}")
     ])
 
     btn.insert(0, [
-        InlineKeyboardButton("⚡ Cʜᴇᴄᴋ Bᴏᴛ PM ⚡", url=f"https://t.me/{temp.U_NAME}")
+        InlineKeyboardButton("⚡ How To Download ⚡", url=f"https://t.me/primax_movie/53")
     ])
 
     if offset != "":
